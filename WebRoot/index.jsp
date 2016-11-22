@@ -21,6 +21,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    new a page <br>
+    pulls new a page <br>
   </body>
 </html>
